@@ -163,7 +163,7 @@ export default function Home() {
                             </p>
                         </div>
                         <p className="mt-6 mb-5 text-base leading-normal text-left text-gray-900 border-0 border-gray-200">
-                            3 a 9 empleados
+                            de 3 a 9 empleados
                         </p>
 
                         <a href="#contacto" className="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-white no-underline bg-gray-800 border rounded-full cursor-pointer hover:bg-gray-900 hover:text-white focus-within:bg-gray-900 focus-within:border-gray-900 focus-within:text-white sm:text-base md:text-lg">
@@ -181,7 +181,7 @@ export default function Home() {
                             </p>
                         </div>
                         <p className="mt-6 mb-5 text-base leading-normal text-left text-gray-900 border-0 border-gray-200">
-                            10 hasta 50 empleados
+                            de 10 hasta 50 empleados
                         </p>
                         <a href="#contacto" className="inline-flex justify-center w-full px-4 py-3 mt-8 font-sans text-sm leading-none text-center text-white no-underline bg-gray-800 border rounded-full cursor-pointer hover:bg-gray-900 hover:text-white focus-within:bg-gray-900 focus-within:border-gray-900 focus-within:text-white sm:text-base md:text-lg">
                             Cuéntame más
