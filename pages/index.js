@@ -331,7 +331,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Revisión del tono de los textos.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Revisión de los textos proporcionados por el cliente.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -339,7 +339,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD (textos base).
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD (textos legales base).
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -448,7 +448,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD (textos legales base).
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
