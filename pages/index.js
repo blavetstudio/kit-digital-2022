@@ -319,46 +319,44 @@ export default function Home() {
                     <ul className="p-0 m-0 pt-4 leading-6 border-0 border-gray-300">
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Consultoría para la definición del sitemap y estructura de la web (mínimo 3 páginas)</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Consultoría para la definición del sitemap y estructura de la web
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Diseño web en distintas resoluciones (desktop, tablet, mobile, 4K)</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Diseño web responsive
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo de página web en WordPress (gestor de contenidos autogestionable)</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo de página web en WordPress (CMS autogestionable)
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Diseño de iconografías y recursos gráficos.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Revisión del tono de los textos.
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Revisión del tono de los textos.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Optimización SEO on page.
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Optimización Google My Business</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD (textos base).
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Optimización SEO on page.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación y configuración de Search Console, Analytics, Tag Manager.
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Alta en Google Business Profile.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Asesoramiento digital y manual de uso digital.
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Integración con Google Ads.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para ecommerce incluido el primer año.
+                    </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Cumplimiento del RGPD (textos base).</li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación y configuración de Search Console, Google Tag Manager, Analytics y Datalayer.</li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Asesoramiento digital y manual de uso.</li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Configuración de 1 dominio y hosting (1 año)</li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesibilidad: El diseño cumple con criterios de conformidad de nivel AA de las Pautas WCAG-2.1.</li>
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesible a nivel AA de las Pautas WCAG-2.1
+                    </li>
                   </ul>
 
                   <h2 className="mt-5 mb-2 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-xl md:text-xl">
@@ -422,7 +420,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo de tienda online en Woocommerce.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo de tienda online en WordPress + Woocommerce (CMS y tienda autogestionable).
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -430,7 +428,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Importación de productos mediante excel (sin límite de productos).
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Alta/importación de un máximo de 100 productos.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -442,11 +440,11 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Integración logística de los envíos con Correos, Seur y GLS.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Configuración e integración de métodos de envío digital y físico.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Configuración de métodos de pago (Redsys o Stripe, Paypal, contra reembolso y transferencia).
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Configuración de métodos de pago (Redsys, Stripe, Paypal, contra reembolso y transferencia).
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -454,31 +452,19 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Integración con Google Ads e importación de productos a Google Shopping.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación y configuración de Search Console, Analytics, Tag Manager.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Integración con Facebook e Instagram (más feed de productos en Facebook e Instagram)
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para ecommerce incluido el primer año.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación y configuración de Search Console, Analytics y Datalayer.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Asesoramiento digital y manual de uso digital.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Alta en Google Business Profile.
-                    </li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Hosting para ecommerce incluido el primer año.
-                    </li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Asesoramiento digital y manual de uso.
-                    </li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesibilidad: El diseño cumple con criterios de conformidad de nivel AA de las Pautas WCAG-2.1.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesible a nivel AA de las Pautas WCAG-2.1
                     </li>
 
                   </ul>
