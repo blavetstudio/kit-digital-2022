@@ -274,6 +274,8 @@ export default function Home() {
                     </h2>
                     <p className="pt-4 pb-4 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
                         Dentro de la asignación del bono digital podrás optar, a través de agentes digitalizadores, a uno o varios de estos servicios: Sitio Web y Presencia en Internet, Comercio electrónico, Gestión de redes sociales, Gestión de clientes, BI y Analítica, Servicios de oficinas virtuales, Gestión de procesos, Factura electrónica, Comunicaciones seguras y Ciberseguridad.
+                        <br /><br />
+                        Nosotros te podemos ayudar en dos áreas: <a href="#solucion-web" className='text-yellow-600 hover:text-yellow-500' rel="nofollow noopener noreferrer">Sitio Web y Presencia en Internet</a>, <a href="#solucion-ecommerce" className='text-yellow-600 hover:text-yellow-500' rel="nofollow noopener noreferrer">Comercio electrónico</a>
                     </p>
                 </div>
 
