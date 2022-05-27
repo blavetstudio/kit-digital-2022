@@ -350,7 +350,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para ecommerce incluido el primer año.
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para web corporativa incluido el primer año.
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
