@@ -252,8 +252,6 @@ export default function Home() {
             </div>
         </section>
 
-
-
         {/* Soluciones */}
         <section id="soluciones" className="w-full bg-white py-7 md:py-12">
             <h3 className="mt-1 mb-12 text-2xl font-bold text-left text-gray-800 sm:mx-0 sm:text-3xl sm:text-center md:text-4xl lg:text-5xl">
@@ -273,7 +271,11 @@ export default function Home() {
                     <p className="pt-4 pb-4 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
                         Las ayudas contemplan uno a varios de los siguientes servicios: Sitio Web y Presencia en Internet, Comercio electrónico, Gestión de redes sociales, Gestión de clientes, Business Intelligence y Analítica, Servicios y herramientas de Oficina Virtual, Gestión de procesos, Factura electrónica, Comunicaciones seguras y Ciberseguridad.
                         <br /><br />
-                        Concretamente desde Blavet Studio podemos ayudarte en:<br/> <a href="#solucion-web" className='text-yellow-600 hover:text-yellow-500' rel="nofollow noopener noreferrer">Sitio Web y Presencia en Internet</a> <br/> <a href="#solucion-ecommerce" className='text-yellow-600 hover:text-yellow-500' rel="nofollow noopener noreferrer">Comercio electrónico</a>
+                        Concretamente desde Blavet Studio podemos ayudarte en:<br/><br/>
+                        <a href="#solucion-web" className='text-yellow-600 hover:text-yellow-500'>Sitio Web y Presencia en Internet</a> <br/>
+                        <a href="#solucion-ecommerce" className='text-yellow-600 hover:text-yellow-500'>Comercio electrónico</a> <br />
+                        <a href="#solucion-web-avanzada" className='text-yellow-600 hover:text-yellow-500'>Presencia Avanzada en Internet</a> <br />
+                        <a href="#solucion-redes-sociales" className='text-yellow-600 hover:text-yellow-500'>Gestión de redes sociales</a>
                     </p>
                 </div>
 
@@ -334,7 +336,7 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo web compatible para implementación de posicionamiento SEO
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo web compatible para implementación de posicionamiento SEO y optimización de la presencia en buscadores (SEO básico)
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
@@ -356,6 +358,10 @@ export default function Home() {
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
                     <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesible a nivel AA de las Pautas WCAG-2.1
                     </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Implementación multiidioma (Español + 1 idioma adicional)
+                    </li>
                   </ul>
 
                   <h2 className="mt-5 mb-2 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-xl md:text-xl">
@@ -374,8 +380,6 @@ export default function Home() {
                       <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
                       <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Elaboración de textos</li>
 
-                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Implementación multi-idioma</li>
                   </ul>
 
                 </div>
@@ -464,10 +468,6 @@ export default function Home() {
                     </li>
 
                     <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para ecommerce incluido el primer año.
-                    </li>
-
-                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
                     <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Asesoramiento digital y manual de uso digital.
                     </li>
 
@@ -495,6 +495,12 @@ export default function Home() {
 
                       <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
                       <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Implementación multi-idioma</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Dominio</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Hosting</li>
                   </ul>
 
                 </div>
@@ -520,7 +526,208 @@ export default function Home() {
             </div>
         </section>
 
+        <section id="solucion-web-avanzada" className="w-full bg-white py-7 md:py-12">
+            <div className="container px-0 px-8 mb-8 mx-auto sm:px-12 md:mb-20 xl:px-5">
+                <p className="text-xs font-bold text-left text-yellow-500 uppercase sm:mx-6 sm:text-center sm:text-normal sm:font-bold">
+                    Crea o mejora tu página web
+                </p>
+                <h3 className="mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0">
+                    Presencia avanzada en internet
+                </h3>
 
+            </div>
+            <div className="box-border flex flex-col items-center content-center px-8 mx-auto mt-2 leading-6 text-black border-0 border-gray-300 border-solid md:mt-20 xl:mt-0 md:flex-row max-w-7xl lg:px-16">
+
+                <div className="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
+                  <h2 className="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
+                        Nuestros servicios
+                  </h2>
+                    <ul className="p-0 m-0 pt-4 leading-6 border-0 border-gray-300">
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Consultoría digital</li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Definición del estilo visual
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Diseño web responsive a medida
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo web a medida en WordPress (CMS autogestionable)
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Análisis de palabras clave
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Análisis de la competencia
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Desarrollo web compatible para implementación de posicionamiento SEO y optimización de la presencia en buscadores (SEO básico)
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>SEO On-Page
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>SEO Off-Page
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Informes mensuales de seguimiento
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación de plugins básicos necesarios (SEO, Analytics,...)
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Configuración del servidor (CRON, bases de datos...)
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación y configuración de Search Console, Analytics, Tag Manager.
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Dominio y hosting para web corporativa incluido el primer año.
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Accesible a nivel AA de las Pautas WCAG-2.1
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Implementación multiidioma (Español + 1 idioma adicional)
+                    </li>
+                  </ul>
+
+                  <h2 className="mt-5 mb-2 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-xl md:text-xl">
+                        No incluye
+                    </h2>
+                  <ul>
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Branding</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Dirección de arte</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Sesiones de fotografía y/o vídeo</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Elaboración de textos</li>
+
+                  </ul>
+
+                </div>
+
+                <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
+                    <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
+                      <Image alt="" src={settings}></Image>
+                    </figure>
+
+                    <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
+                      <h3 className="text-lg font-bold text-yellow-500 sm:text-xl md:text-2xl">Importes</h3>
+                      <p className="mt-2 text-base text-gray-600 sm:text-lg md:text-normal">
+                          Precio: desde 8000€<br />
+                          <span className='font-bold'>Subvención: hasta 2000€</span>
+                      </p>
+                    </div>
+
+                  <div className="py-6 mx-auto mt-10 text-center max-w-xs">
+                  <a href="mailto:hello@blavetstudio.com?subject=Kit%20Digital%20Pagina%20Web%20Avanzada" target="_blank" rel="nofollow noopener noreferrer" type="button" className="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-gray-800 border border-transparent rounded-full  hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-600">Me interesa</a>
+                  </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section id="solucion-redes-sociales" className="w-full bg-white py-7 md:py-12">
+            <div className="container px-0 px-8 mb-8 mx-auto sm:px-12 md:mb-20 xl:px-5">
+                <p className="text-xs font-bold text-left text-yellow-500 uppercase sm:mx-6 sm:text-center sm:text-normal sm:font-bold">
+                    Redes sociales
+                </p>
+                <h3 className="mt-1 text-2xl font-bold text-left text-gray-800 sm:mx-6 sm:text-3xl md:text-4xl lg:text-5xl sm:text-center sm:mx-0">
+                    Gestión de redes sociales
+                </h3>
+
+            </div>
+            <div className="box-border flex flex-col items-center content-center px-8 mx-auto mt-2 leading-6 text-black border-0 border-gray-300 border-solid md:mt-20 xl:mt-0 md:flex-row max-w-7xl lg:px-16">
+
+                <div className="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
+                  <h2 className="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
+                        Nuestros servicios
+                  </h2>
+                    <ul className="p-0 m-0 pt-4 leading-6 border-0 border-gray-300">
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Elaboración de Social Media Plan anual</li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Monitorización de redes sociales durante un año
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Auditoría Social Media
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Gestión de una red social
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Publicación de posts semanales (máximo de 6 posts mensuales)
+                    </li>
+
+                    <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                    <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"><span className="text-sm font-bold">✓</span></span>Instalación de plugins básicos necesarios (SEO, Analytics,...)
+                    </li>
+                  </ul>
+
+                  <h2 className="mt-5 mb-2 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-xl md:text-xl">
+                        No incluye
+                    </h2>
+                  <ul>
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Branding</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Dirección de arte</li>
+
+                      <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+                      <span className="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-red-300 rounded-full"><span className="text-sm font-bold">x</span></span>Sesiones de fotografía y/o vídeo</li>
+
+                  </ul>
+
+                </div>
+
+                <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
+                    <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
+                      <Image alt="" src={settings}></Image>
+                    </figure>
+
+                    <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
+                      <h3 className="text-lg font-bold text-yellow-500 sm:text-xl md:text-2xl">Importes</h3>
+                      <p className="mt-2 text-base text-gray-600 sm:text-lg md:text-normal">
+                          Precio: desde 5000€<br />
+                          <span className='font-bold'>Subvención: hasta 2500€</span>
+                      </p>
+                    </div>
+
+                  <div className="py-6 mx-auto mt-10 text-center max-w-xs">
+                  <a href="mailto:hello@blavetstudio.com?subject=Kit%20Digital%20Redes%20Sociales" target="_blank" rel="nofollow noopener noreferrer" type="button" className="inline-flex items-center justify-center w-full px-8 py-4 text-base font-bold leading-6 text-white bg-gray-800 border border-transparent rounded-full  hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-600">Me interesa</a>
+                  </div>
+
+                </div>
+            </div>
+        </section>
 
         <section id="contacto" className="px-2 py-32 bg-white md:px-0">
             <div className="container items-center max-w-6xl px-5 mx-auto space-y-6 text-center">
