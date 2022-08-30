@@ -2,6 +2,10 @@ import Head from 'next/head'
 import Image from 'next/image'
 import settings from 'public/settings.png'
 import productivity from 'public/productivity.png'
+import web from 'public/web.png'
+import webAvanzada from 'public/web-avanzada.png'
+import social from 'public/social.png'
+import shop from 'public/shop.png'
 import logos from 'public/logo-kit-digital-2048x238.png'
 
 export default function Home() {
@@ -385,8 +389,8 @@ export default function Home() {
                 </div>
 
                 <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
-                    <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
-                      <Image alt="" src={settings}></Image>
+                    <figure className="pl-4 sm:pr-10 xl:pl-10">
+                      <Image alt="" src={web}></Image>
                     </figure>
 
                     <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
@@ -506,8 +510,8 @@ export default function Home() {
                 </div>
 
                 <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
-                  <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
-                    <Image alt="" src={settings}></Image>
+                  <figure className="pl-4 sm:pr-10 xl:pl-10">
+                    <Image alt="" src={shop}></Image>
                   </figure>
 
                   <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
@@ -629,8 +633,8 @@ export default function Home() {
                 </div>
 
                 <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
-                    <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
-                      <Image alt="" src={settings}></Image>
+                    <figure className="pl-4 sm:pr-10 xl:pl-10">
+                      <Image alt="" src={webAvanzada}></Image>
                     </figure>
 
                     <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
@@ -709,8 +713,8 @@ export default function Home() {
                 </div>
 
                 <div className="box-border relative w-full max-w-md px-8 mt-10 mb-4 bg-no-repeat bg-contain border-solid md:mt-0 md:max-w-none lg:mb-0 md:w-1/2">
-                    <figure className="pl-4 sm:pr-10 xl:pl-10 lg:pr-32">
-                      <Image alt="" src={settings}></Image>
+                    <figure className="pl-4 sm:pr-10 xl:pl-10">
+                      <Image alt="" src={social}></Image>
                     </figure>
 
                     <div className="w-full px-6 py-6 mx-auto mt-10 bg-white border border-gray-200 rounded-lg sm:px-8 md:px-12 sm:py-8 sm:shadow lg:w-5/6 xl:w-2/3">
